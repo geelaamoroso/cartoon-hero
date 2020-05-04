@@ -1,0 +1,28 @@
+body{
+	background-color: paleturquoise;
+}
+
+<style type="text/css">
+h1{
+font-size: 40px;
+color: cornflowerblue;
+}
+h2{
+font-size: 30px;
+color: salmon;
+}
+.big{
+font-size: 60px;
+color: red;
+}
+.uppercase{
+text-transform: uppercase;
+color: green;
+}
+.big.uppercase{
+color: navy
+}
+span{
+color: rebeccapurple
+}
+</style>
